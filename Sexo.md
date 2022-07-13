@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sexo
+title: sexo
 ---
 
 Sexo
